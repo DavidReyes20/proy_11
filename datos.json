@@ -1,0 +1,68 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto": "PANTALON",
+    "inventarioProducto": 14,
+    "precioProducto": 40000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "CAMISETA",
+    "inventarioProducto": 15,
+    "precioProducto": 20000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "MEDIAS",
+    "inventarioProducto": 2,
+    "precioProducto": 2000
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto": "CHAQUETA",
+    "inventarioProducto": 7,
+    "precioProducto": 50000
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto": "ZAPATOS",
+    "inventarioProducto": 14,
+    "precioProducto": 65000
+  },
+  {
+    "codigoProducto": "05",
+    "nombreProducto": "TENIS",
+    "inventarioProducto": 11,
+    "precioProducto": 55000
+  },
+  {
+    "codigoProducto": "06",
+    "nombreProducto": "CELULAR",
+    "inventarioProducto": 14,
+    "precioProducto": 650000
+  },
+  {
+    "codigoProducto": "07",
+    "nombreProducto": "carro",
+    "inventarioProducto": 13,
+    "precioProducto": 55000000
+  },
+  {
+    "codigoProducto": "08",
+    "nombreProducto": "moto",
+    "inventarioProducto": 2,
+    "precioProducto": 5000000
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "zpatos",
+    "inventarioProducto": 5,
+    "precioProducto": 40000
+  },
+  {
+    "codigoProducto": "iuc",
+    "nombreProducto": "iyiv",
+    "inventarioProducto": 7,
+    "precioProducto": null
+  }
+]
